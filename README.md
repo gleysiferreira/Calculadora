@@ -7,7 +7,7 @@
 
 Projeto construído em live com Rodolfo Mori no DevClub.
 
-[🔗Clique Aqui Para Acessar](https://gleysiferreira.github.io/calculadora/)
+[🔗Clique Aqui Para Acessar](https://gleysiferreira.github.io/Calculadora/)
 
 ## 🛠️ Tecnologias
 
